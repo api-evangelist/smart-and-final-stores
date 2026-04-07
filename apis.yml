@@ -1,7 +1,12 @@
 aid: smart-and-final-stores
-url: https://raw.githubusercontent.com/api-evangelist/smart-and-final-stores/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/smart-and-final-stores/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.smart-and-final-stores.com
+description: >-
+  Smart & Final Stores is a warehouse-style food and supply retailer that sells a
+  wide variety of fresh perishables, everyday grocery items, and warehouse-club-sized
+  products to households and businesses.
