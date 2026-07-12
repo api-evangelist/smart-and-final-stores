@@ -21,6 +21,8 @@ tags:
   - Brick And Mortar
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/smart-and-final-stores-domain-security.yml
   - type: Website
     url: https://www.smartandfinal.com
   - type: MobileApp
