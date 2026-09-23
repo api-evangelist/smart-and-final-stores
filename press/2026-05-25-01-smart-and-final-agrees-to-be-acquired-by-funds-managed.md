@@ -1,7 +1,9 @@
 ---
 title: Smart & Final Agrees to be Acquired by Funds Managed ...
 url: https://www.prnewswire.com/news-releases/smart--final-agrees-to-be-acquired-by-funds-managed-by-affiliates-of-apollo-global-management-300833348.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Smart & Final Stores" press release artificial intelligence'
 position: 1
 source: serpapi-google
