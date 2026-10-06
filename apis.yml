@@ -34,7 +34,7 @@ description: >-
 url: >-
   https://raw.githubusercontent.com/api-evangelist/smart-and-final-stores/refs/heads/main/apis.yml
 created: '2026-03-24'
-modified: '2026-05-02'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Grocery
@@ -50,6 +50,8 @@ tags_raw:
   - Brick And Mortar
 apis: []
 common:
+  - url: https://www.smartandfinal.com/sm/pickup/rsid/522/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/smart-and-final-stores-domain-security.yml
   - type: Website
